@@ -13,12 +13,16 @@ namespace ClassIntro
             kurs3.KursAdı = "C#";
             kurs3.Egitmen = "Eda Kırıkkale";
             kurs3.İzlenmeOranı = 68;
+            Console.WriteLine();
 
 
             Kurs kurs1 = new Kurs();
             kurs1.KursAdı = "Java";
             kurs1.Egitmen = "Kerem Varış";
             kurs1.İzlenmeOranı = 64;
+
+
+
 
 
             Kurs kurs2= new Kurs();
